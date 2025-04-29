@@ -72,7 +72,6 @@
 <ul>
     <li>Upload profile pictures (JPG/PNG, max 5MB)</li>
     <li>Password recovery via email</li>
-    <li>Search and filter students, teachers, and courses</li>
 </ul>
 
 <hr>
