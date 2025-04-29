@@ -64,7 +64,6 @@
 <h3>Data Validation</h3>
 <ul>
     <li>Email format validation</li>
-    <li>Phone number format validation (XXX-XXX-XXXX)</li>
     <li>Required fields must be completed</li>
     <li>Duplicate prevention (email addresses, course codes)</li>
 </ul>
